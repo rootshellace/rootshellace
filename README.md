@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&size=40&pause=1500&color=295F2D&center=true&vCenter=true&random=false&width=850&lines=Welcome+to+rootshellace's+profile!" alt="Typing SVG" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rootshellace&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rootshellace&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <!--
 **rootshellace/rootshellace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
