@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rootshellace&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rootshellace&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <!--
 **rootshellace/rootshellace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
