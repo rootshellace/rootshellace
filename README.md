@@ -73,7 +73,7 @@
 
 </br>
 
-<!-- Stats section -->
+<!-- Stats section 
 <h2 align="center"> 💹 My stats </h2>
 
 <div align="center">
@@ -84,6 +84,7 @@
 </div>
 
 </br>
+-->
 
 <!-- Resources section -->
 <h2 align="center"> ©️ Resources used to create this page </h2>
