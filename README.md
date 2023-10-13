@@ -4,7 +4,7 @@
 </div>
 
 <!-- About me section -->
-<h2 align="center"> 📌 About me</h2>
+<h3 align="center"> 📌 About me</h3>
 
 <p>I am a guy who enjoys cybersecurity and wants to develop his skills in this area as much as possible. I started a YouTube channel and a Medium blog, where I create content about various topics regarding this area. On GitHub, I post my projects related to cybersecurity.</p>
 
