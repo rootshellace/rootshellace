@@ -8,8 +8,6 @@
 
 <p>I am a guy who enjoys cybersecurity and wants to develop his skills in this area as much as possible. I started a YouTube channel and a Medium blog, where I create content about various topics regarding this area. On GitHub, I post my projects related to cybersecurity.</p>
 
-</br>
-
 <!-- Technologies & Tools section -->
 <h2 align="center">🔧 Skills</h2>
 
@@ -33,8 +31,6 @@
     <img height="32" alt="Azure" src="img_tech/azure.svg" />
 </a>
 </div>
-
-</br>
 
 <!-- Follow me section -->
 <h2 align="center"> 🔥 Follow me 🏃 </h2>
@@ -60,8 +56,6 @@
 </a>
 </div>
 
-</br>
-
 <!-- Top programming languages used section -->
 <h2 align="center"> 🔝 Programming Languages </h2>
 
@@ -70,8 +64,6 @@
 ![rootshellace's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootshellace&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 </div>
-
-</br>
 
 <!-- Stats section 
 <h2 align="center"> 💹 My stats </h2>
