@@ -3,6 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tilt+Neon&size=40&pause=1000&color=228B22&center=true&vCenter=true&multiline=true&random=false&width=850&height=150&lines=user%40server%3A~%23_+whoami;rootshellace" alt="Typing SVG" /></a>
 </div>
 
+## Test
+
 <!-- About me section -->
 <h2 align="center"> 📌 About me</h2>
 
