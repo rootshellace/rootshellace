@@ -2,10 +2,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rootshellace&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
-## A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <!--
 **rootshellace/rootshellace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
