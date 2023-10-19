@@ -12,22 +12,22 @@
 <h2 align="center"> 🔧 Skills </h2>
 
 <div align="center">
-<a href="">
+<a href="https://github.com/rootshellace">
     <img height="32" alt="Linux" src="img_tech/linux.svg" />
 </a>
-<a href="">
+<a href="https://github.com/rootshellace">
     <img height="32" alt="Windows" src="img_tech/windows.svg" />
 </a>
-<a href="">
+<a href="https://github.com/rootshellace">
     <img height="32" alt="Bash" src="img_tech/bash.svg" />
 </a>
-<a href="">
+<a href="https://github.com/rootshellace">
     <img height="32" alt="Python" src="img_tech/python.svg" />
 </a>
-<a href="">
+<a href="https://github.com/rootshellace">
     <img height="32" alt="SQL" src="img_tech/sql.svg" />
 </a>
-<a href="">
+<a href="https://github.com/rootshellace">
     <img height="32" alt="Azure" src="img_tech/azure.svg" />
 </a>
 </div>
