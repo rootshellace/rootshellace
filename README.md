@@ -22,6 +22,9 @@
     <img height="32" alt="Bash" src="img_tech/bash.svg" />
 </a>
 <a href="https://github.com/rootshellace">
+    <img height="32" alt="Powershell" src="img_tech/powershell.svg" />
+</a>
+<a href="https://github.com/rootshellace">
     <img height="32" alt="Python" src="img_tech/python.svg" />
 </a>
 <a href="https://github.com/rootshellace">
@@ -64,19 +67,6 @@
 ![rootshellace's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootshellace&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 </div>
-
-<!-- Stats section 
-<h2 align="center"> 💹 My stats </h2>
-
-<div align="center">
-
-![rootshellace's Stats](https://github-readme-stats.vercel.app/api?username=rootshellace&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![rootshellace's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rootshellace&theme=gruvbox&hide_border=true)
-
-</div>
-
-</br>
--->
 
 <!-- Resources section -->
 <h2 align="center"> ©️ Resources used to create this page </h2>
