@@ -35,29 +35,6 @@
 </a>
 </div>
 
-<!-- Follow me section -->
-<h2 align="center"> 🔥 Follow me 🏃 </h2>
-
-<div align="center">
-<a href="https://www.youtube.com/@rootshellace">
-    <img height="32" alt="YouTube" src="img_media/youtube.svg" />
-</a>
-<a href="https://medium.com/@rootshellace">
-    <img height="32" alt="Medium" src="img_media/medium.svg" />
-</a>
-<a href="https://github.com/rootshellace">
-    <img height="32" alt="GitHub" src="img_media/github.svg" />
-</a>
-<a href="https://www.facebook.com/rootshellace">
-    <img height="32" alt="Facebook" src="img_media/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/rootshellace">
-    <img height="32" alt="Instagram" src="img_media/instagram.svg" />
-</a>
-<a href="https://twitter.com/rootshellace">
-    <img height="32" alt="Twitter/X" src="img_media/twitter_x.svg" />
-</a>
-</div>
 
 <!-- Top programming languages used section -->
 <h2 align="center"> 🔝 Programming Languages </h2>
